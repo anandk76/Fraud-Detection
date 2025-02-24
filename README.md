@@ -66,4 +66,4 @@ The dataset consists of financial transactions with a significant class imbalanc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tanishq665/Fraud_detection.git
+   git clone https://github.com/anandk76/Fraud Detection.git
